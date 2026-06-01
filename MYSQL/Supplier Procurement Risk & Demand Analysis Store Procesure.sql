@@ -1,4 +1,5 @@
 USE supply_chain_db;
+# SQL Analysis & Stored Procedures
 
 #Supplier Performance Analysis
 DELIMITER $$
